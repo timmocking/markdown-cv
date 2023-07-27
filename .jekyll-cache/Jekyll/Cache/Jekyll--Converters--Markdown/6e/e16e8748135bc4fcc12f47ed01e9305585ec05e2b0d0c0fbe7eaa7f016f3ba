@@ -1,0 +1,231 @@
+I"EA<h1 id="tim-mocking">Tim Mocking</h1>
+
+<p>PhD Student, AmsterdamUMC Cancer Center</p>
+
+<p>Bioinformatics, Department of Hematology<br /></p>
+
+<p><a href="t.r.mocking@amsterdamumc.nl">t.r.mocking@amsterdamumc.nl</a></p>
+
+<div id="webaddress">
+  <a href="https://orcid.org/0000-0001-9170-4131"><i class="ai ai-orcid"></i> 0000-0002-8788-9548</a> -
+  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Mocking+TR&amp;cauthor_id=37338802"><i class="ai ai-pubmed"></i> Pubmed </a> -
+  <a href="https://scholar.google.com/citations?user=M7JvmCIAAAAJ&amp;hl=en"><i class="ai ai-google-scholar"></i> Google Scholar</a> - 
+  <a href="https://twitter.com/timmocking"><i class="ai ai-twitter"></i> @timmocking</a>
+</div>
+
+<!-- ### Qualities 
+
+Enthusiastic, creative, analytical, collaborative, independent thinker, perseverance. -->
+
+<h3 id="specialized-in">Specialized in</h3>
+
+<p>Computational flow cytometry, machine learning, single cell data, myeloid malignancies.</p>
+
+<!-- ### Research question
+
+What determines why and how cancer cells respond to targeted inhibitors? -->
+
+<h2 id="experience">Experience</h2>
+
+<p><code class="language-plaintext highlighter-rouge">September 2021 - Present</code>
+<strong>PhD Student</strong>, <em>Bioinformatics, AmsterdamUMC Cancer Center</em>.<br /></p>
+
+<p><code class="language-plaintext highlighter-rouge">2014-2019</code>
+<strong>Junior Data Scientist</strong>, <em>WePublic</em>.<br /></p>
+
+<h2 id="education">Education</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2009-2013</code>
+<strong>PhD, Systems Bioinformatics</strong>, <em>Vrije Universiteit Amsterdam</em>.<br />
+Thesis: “Darwin`s invisible hand: Optimality principles in cellular resource allocation.”<br />
+Advisers: Prof. B. Teusink, Prof. F.J. Bruggeman and Dr. D. Molenaar.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2006-2009</code>
+<strong>MSc Theoretical Physics (Cum Laude)</strong>, <em>University of Amsterdam</em><br />
+Thesis: “The Central Spin Problem and the Richardson Equations.”<br />
+Adviser: Prof. J.S. Caux</p>
+
+<p><code class="language-plaintext highlighter-rouge">2007-2008</code> <strong>Erasmus program</strong>, <em>Humboldt University</em>, Berlin, Germany.<br /></p>
+
+<p><code class="language-plaintext highlighter-rouge">2003-2006</code> <strong>BSc Physics and Astrophysics</strong>, <em>University of Amsterdam</em>.<br />
+Thesis: “Learning by Reward and Punishment in a Biologically Inspired Neural Network.”<br />
+Advisor: Dr. W.A. van Leeuwen</p>
+
+<p><code class="language-plaintext highlighter-rouge">2002-2003</code> <strong>Beta-Gamma Propedeuse</strong>, <em>University of Amsterdam</em>.<br /></p>
+
+<!-- ## Coding
+
+`Proficient`
+Python, R, CPLEX, Mathematica
+
+`Intermediate`
+bash, snakemake, git
+
+`Rusty`
+C, C++ (It's been a while) -->
+
+<h2 id="awards">Awards</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2013</code> <strong>SB@NL symposium poster prize</strong> (2th place)</p>
+
+<p><code class="language-plaintext highlighter-rouge">2011</code> <strong>FEBS Youth Travel Fund</strong>, Grant covering expenses to attend the FEBS-SysBio2011 advanced lecture course.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2010</code> <strong>Shell Theoretical Physics Stipend</strong>, Awarded annually to the best graduates in theoretical physics in the Netherlands.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2009</code> <strong>MSc Theoretical Physics Cum laude</strong></p>
+
+<h2 id="publications">Publications</h2>
+
+<p>A list is also available at <a href="https://scholar.google.com/citations?user=FWmDPGgAAAAJ&amp;hl=en">google scholar</a> or <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Bosdriesz+E">pubmed</a>. # indicates equal contribution.</p>
+
+<h3 id="key">Key</h3>
+
+<p><strong>E. Bosdriesz</strong>, J. Fernandes Neto, A. Sieber, R. Bernards,N. Blüthgen and L.F.A. Wessels, ‘Identifying mutant-specific drug combinations using Comparative Network Reconstruction’. <em>iScience</em>, <em>25</em>(8); doi:<a href="http://dx.doi.org/10.1016/j.isci.2022.104760">10.1016/j.isci.2022.104760</a>, 2022.<br />
+<em>Shows that Comparative Network Reconstruction can be used to predict which low-dose multi-drug combinations that are selective in an isogenic cell-line pair.</em><br />
+<i class="fab fa-github"></i> <a href="https://github.com/evertbosdriesz/cnr-selective-combos"> Code and Data </a></p>
+
+<p>J. Fernandes Neto, E. Nadal#, <strong>E. Bosdriesz</strong>#, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and &amp; R. Bernards, ‘Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.’ <em>Nature Communications</em>, <em>11 (1)</em>: 3157.doi:<a href="https://doi.org/10.1038/s41467-020-16952-9">10.1038/s41467-020-16952-9</a>, 2020.
+<em>Shows that combining multiple drugs at low dose is effective, prevents emergence resistance, and is well tolerated by mice.</em></p>
+
+<p><strong>E. Bosdriesz</strong>, A. Prahallad, B. Klinger, A. Sieber, A. Bosma, R. Bernards, N. Blüthgen and L.F.A. Wessels, ‘Comparative Network Reconstruction Using Mixed Integer Programming’, <em>Bioinformatics</em>, <em>34</em>:i997–1004. doi:<a href="https://doi.org/10.1093/bioinformatics/bty616">10.1093/bioinformatics/bty616</a>, 2018.<br />
+<em>Method to reconstruct and compare signaling networks based on perturbation data using Mixed Integer Quadratic programming.</em>:
+<i class="fab fa-github"></i> <a href="https://github.com/NKI-CCB/cnr"> Code </a> -
+<a href="https://github.com/NKI-CCB/CNR-analyses"> Notebooks </a></p>
+
+<!-- A. Ressa#, **E. Bosdriesz**#, J. de Ligt, S. Mainardi, G. Maddalo, A. Prahallad, M. Jager, L. de la Fonteijne, M. Fitzpatrick, S. Groten, A.F.M. Altelaar, R. Bernards, E. Cuppen, L.F.A Wessels and J.R. Heck,
+‘A System-Wide Approach to Monitor Responses to Synergistic BRAF and EGFR Inhibition in Colorectal Cancer Cells’,
+*Molecular & Cellular Proteomics*, *17*(10):1892-1908.
+doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<br>
+*Transcriptomic, proteomic and phosphoproteomic, time-course analysis of cancer cells in response to targeted inhibitors*:
+<a href="https://bitbucket.org/evertbosdriesz/cgc-multi-omics/src/master/"><i class="fab fa-bitbucket"></i> Code </a>
+
+**E. Bosdriesz**, D. Molenaar, B. Teusink, and F.J. Bruggeman,
+‘How Fast-Growing Bacteria Robustly Tune Their Ribosome Concentration to Approximate Growth-Rate Maximization.’,
+*FEBS Journal*, *282*(10):2029-2044. doi:[10.1111/febs.13258](https://doi.org/10.1111/febs.13258), 2015.<br>
+*Uses mechanistic, minimal models to understand the design principles of how bacteria control their macromolecular composition*:
+<a href="https://jjj.bio.vu.nl/models/bosdriesz1/"><i class="fas fa-home"></i> model</a> -->
+
+<h3 id="peer-reviewed-articles">Peer-reviewed articles</h3>
+
+<p><code class="language-plaintext highlighter-rouge">2022</code>
+<strong>E. Bosdriesz</strong>, J. Fernandes Neto, A. Sieber, R. Bernards,N. Blüthgen and L.F.A. Wessels, ‘Identifying mutant-specific drug combinations using Comparative Network Reconstruction’. <em>iScience</em>, <em>25</em>(8); doi:<a href="http://dx.doi.org/10.1016/j.isci.2022.104760">10.1016/j.isci.2022.104760</a>, 2022.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2020</code>
+J. Fernandes Neto, E. Nadal#, <strong>E. Bosdriesz</strong>#, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and &amp; R. Bernards, ‘Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.’ <em>Nature Communications</em>, <em>11 (1)</em>: 3157.doi:<a href="https://doi.org/10.1038/s41467-020-16952-9">10.1038/s41467-020-16952-9</a>, 2020.</p>
+
+<p>T. Sustic, <strong>E. Bosdriesz</strong>, S. van Wageningen, L.F.A. Wessels and R. Bernards, ‘RUNX2/CBFB modulates the response to MEK inhibitors through activation of receptor tyrosine kinases in <em>KRAS</em>-mutant colorectal cancer’, <em>Translational Oncology</em>, <em>13</em>(2):201-211.
+doi:[10.1016/j.tranon.2019.10.006(https://doi.org/10.1016/j.tranon.2019.10.006), 2020.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2018</code>
+<strong>E. Bosdriesz</strong>, A. Prahallad, B. Klinger, A. Sieber, A. Bosma, R. Bernards, N. Blüthgen and L.F.A. Wessels, ‘Comparative Network Reconstruction Using Mixed Integer Programming’, <em>Bioinformatics</em>, <em>34</em>:i997–1004. doi:<a href="https://doi.org/10.1093/bioinformatics/bty616">10.1093/bioinformatics/bty616</a>, 2018.</p>
+
+<p>A. Ressa#, <strong>E. Bosdriesz</strong>#, J. de Ligt, S. Mainardi, G. Maddalo, A. Prahallad, M. Jager, L. de la Fonteijne, M. Fitzpatrick, S. Groten, A.F.M. Altelaar, R. Bernards, E. Cuppen, L.F.A Wessels and J.R. Heck ,
+‘A System-Wide Approach to Monitor Responses to Synergistic BRAF and EGFR Inhibition in Colorectal Cancer Cells’,
+<em>Molecular &amp; Cellular Proteomics</em>, <em>17</em>(10):1892-1908.
+doi:<a href="https://doi.org/10.1074/mcp.RA117.000486">10.1074/mcp.RA117.000486</a>, 2018.</p>
+
+<p>T. Šuštić#, S. van Wageningen#, <strong>E. Bosdriesz</strong>, R.J.D. Reid, J. Dittmar, C. Lieftink,  R.L. Beijersbergen, L.F.A. Wessels, R. Rothstein and R. Bernards, ‘A Role for the Unfolded Protein Response Stress Sensor ERN1 in Regulating the Response to MEK Inhibitors in KRAS Mutant Colon Cancers’,
+<em>Genome Medicine</em>, <em>10</em>:90. doi:<a href="https://doi.org/10.1186/s13073-018-0600-z">10.1186/s13073-018-0600-z</a>, 2018.</p>
+
+<p>L. Wang#, R. Leite de Oliveira#, S. Huijberts, <strong>E. Bosdriesz</strong>, N. Pencheva, D. Brunen, A. Bosma, J.Y. Song, J. Zevenhoven, G. T. Los-de Vries, H. Horlings, B. Nuijen, J.H. Beijnen, J.H.M. Schellens and R. Bernards.
+‘An Acquired Vulnerability of Drug-Resistant Melanoma with Therapeutic Potential’.
+<em>Cell</em>, <em>173</em>(6):1413-1425.e14. doi:<a href="https://doi.org/10.1016/j.cell.2018.04.012">10.1016/j.cell.2018.04.012</a>, 2018.</p>
+
+<p>M. Dorel, B. Klinger, T. Gross, A. Sieber, A. Prahallad, <strong>E. Bosdriesz</strong>, L.F.A. Wessels and N. Blüthgen, ‘Modelling Signalling Networks from Perturbation Data’, <em>Bioinformatics</em>, <em>34</em>(23):4079–4086. doi:<a href="https://doi.org/10.1093/bioinformatics/bty473">10.1093/bioinformatics/bty473</a>, 2018.</p>
+
+<p>Z. Xue, D.J. Vis, A. Bruna, T. Šuštić, S. Van Wageningen, A. Sati Batra, O.M. Rueda, <strong>E. Bosdriesz</strong>, C. Caldas, L.F.A. Wessels and R. Bernards. ‘MAP3K1 and MAP2K4 Mutations Are Associated with Sensitivity to MEK Inhibitors in Multiple Cancer Models’.
+<em>Cell Research</em>, <em>28</em>:719–729. doi:<a href="https://doi.org/10.1038/s41422-018-0044-4">10.1038/s41422-018-0044-4</a>, 2018.</p>
+
+<p><strong>E. Bosdriesz</strong>#, M.T. Wortel#, J.R. Haanstra, M.J. Wagner, P. de la Torre Cortés, and B. Teusink, ‘Low Affinity Uniporter Carrier Proteins Can Increase Net Substrate Uptake Rate by Reducing Efflux’, <em>Scientific Reports</em>, <em>8</em>:5576. doi:<a href="https://doi.org/10.1038/s41598-018-23528-7">10.1038/s41598-018-23528-7</a>, 2018.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2016</code>
+M.T. Wortel#, <strong>E. Bosdriesz#</strong>, B. Teusink, and F.J. Bruggeman.
+‘Evolutionary Pressures on Microbial Metabolic Strategies in the Chemostat’.
+<em>Scientific Reports</em>, <em>6</em>:29503. doi:<a href="https://doi.org/10.1038/srep29503">10.1038/srep29503</a>, 2016.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2015</code>
+<strong>E. Bosdriesz</strong>, D. Molenaar, B. Teusink, and F.J. Bruggeman, ‘How Fast-Growing Bacteria Robustly Tune Their Ribosome Concentration to Approximate Growth-Rate Maximization.’, <em>FEBS Journal</em>, <em>282</em>(10):2029-2044. doi:<a href="https://doi.org/10.1111/febs.13258">10.1111/febs.13258</a>, 2015.</p>
+
+<p><strong>E. Bosdriesz</strong>, S. Magnúsdóttir, F.J. Bruggeman, B. Teusink, and D. Molenaar,
+‘Binding Proteins Enhance Specific Uptake Rate by Increasing the Substrate-Transporter Encounter-Rate’,
+<em>FEBS Journal</em>, <em>282</em>:2394–2407. doi:<a href="https://doi.org/10.1111/febs.13289">10.1111/febs.13289</a>, 2015.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2013</code>
+J. Berkhout, <strong>E. Bosdriesz</strong>, E. Nikerel, D. Molenaar, D. de Ridder, B. Teusink and F.J. Bruggeman,
+‘How Biochemical Constraints of Cellular Growth Shape Evolutionary Adaptations in Metabolism.’,
+<em>Genetics</em>, <em>194</em>:505–512. doi:<a href="https://doi.org/10.1534/genetics.113.150631">10.1534/genetics.113.150631</a>, 2013.</p>
+
+<p><br /></p>
+
+<h3 id="preprints">Preprints</h3>
+<!-- **E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying selective drug combinations using Comparative Network Reconstruction'. *bioRxiv 2020.12.17.423240*; doi:[10.1101/2020.12.17.423240](https://doi.org/10.1101/2020.12.17.423240), 2020.<br> -->
+
+<p>N. Aben, J. de Ruiter, <strong>E. Bosdriesz</strong>, Y. Kim, G. Bounova, D.J. Vis, L.F.A. Wessels and M. Michaut.
+‘Identifying Biomarkers of Anti-Cancer Drug Synergy Using Multi-Task Learning.’
+<em>BioRxiv</em> 243568. doi:<a href="https://doi.org/10.1101/243568">10.1101/243568</a>, 2018.<br /></p>
+
+<h2 id="talks">Talks</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2022</code> 
+<strong>Amsterdam UMC MCBI research meetings</strong>, <em>Understanding cell state dependent drug response using network modeling</em>, Amsterdam, the Netherlands.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2021</code>
+<strong>Amsterdam UMC Oncogenetics seminar</strong>, <em>Understanding drug response using network modeling</em>, Amsterdam, the Netherlands.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2018</code>
+<strong>INCOME2018</strong>,
+<em>Comparative network reconstruction to identify selective anti-cancer drug combinations</em>,
+Bernried, Germany.</p>
+
+<p><strong>17th European Conference on Computational Biology</strong>,
+<em>Comparative Network Reconstruction using Mixed Integer Progamming</em>,
+Athens, Greece.</p>
+
+<p><strong>VUmc seminar series on bioinformatics and data analysis</strong>, <em>Comparative network reconstruction to identify selective anti-cancer drug combinations.</em>, Amsterdam, the Netherlands.</p>
+
+<p><strong>BioSB 2018</strong>,
+<em>Comparative network reconstruction to identify selective anti-cancer drug combinations</em>,
+Lunteren, the Netherlands.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2016</code>
+<strong>BioSB 2016</strong>,
+<em>Comparative network reconstruction identifies resistance mechanisms to targeted cancer treatment</em>,
+Lunteren, the Netherlands.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2014</code>
+<strong>EMBO: From Functional Genomics to Systems Biology</strong>,
+<em>The logic of the regulatory mechanism underlying growth rate control in Escherichia coli</em>,
+Heidelberg, Germany.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2013</code>
+<strong>14th International Conference on Systems Biology</strong>,
+<em>Escherichia coli implements a robust regulatory network motif that maximizes growth rate</em>,
+Copenhagen, Denmark.</p>
+
+<p><strong>Netherlands Bioinformatics Conference 2013</strong>,
+<em>Design principles of nutrient-uptake systems involving binding proteins</em>,
+Lunteren, the Netherlands.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2012</code>
+<strong>Netherlands Consortium for Systems Biology symposium</strong>,
+<em>Escherichia coli implements a robust regulatory network motif that maximizes growth rate</em>,
+Soesterberg, the Netherlands.</p>
+
+<p><strong>Netherlands Bioinformatics Conference 2012</strong>,
+<em>Optimal and robust regulation of gene expression</em>,
+Lunteren, the Netherlands.</p>
+
+<p><strong>Netherlands Biotechnology Congress</strong>,
+<em>Optimal and robust regulation of gene expression</em>,
+Ede, the Netherlands.</p>
+
+<h2 id="reviewing">Reviewing</h2>
+
+<!-- #`Independent` -->
+<p>Cell Reports Medicine, Bioinformatics, PLOS Computational Biology, iScience, Review Commons,  Cellular Oncology, Cancer Medicine, Molecular Cancer Therapeutics, Scientific Reports.</p>
+
+<!-- `Co-reviewed`
+Nature Communications, Plos Computational Biology (with Prof. Wessels),
+Lung Cancer (with Prof. Bernards),
+Biophysical Journal (with Prof. Bruggeman). -->
+:ET

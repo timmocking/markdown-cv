@@ -1,0 +1,79 @@
+I"<h1 id="tim-mocking">Tim Mocking</h1>
+
+<p>PhD Student, AmsterdamUMC Cancer Center</p>
+
+<p>Bioinformatics, Department of Hematology<br /></p>
+
+<p><a href="t.r.mocking@amsterdamumc.nl">t.r.mocking@amsterdamumc.nl</a></p>
+
+<div id="webaddress">
+  <a href="https://orcid.org/0000-0001-9170-4131"><i class="ai ai-orcid"></i> 0000-0002-8788-9548</a> -
+  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Mocking+TR&amp;cauthor_id=37338802"><i class="ai ai-pubmed"></i> Pubmed </a> -
+  <a href="https://scholar.google.com/citations?user=M7JvmCIAAAAJ&amp;hl=en"><i class="ai ai-google-scholar"></i> Google Scholar</a> - 
+  <a href="https://twitter.com/timmocking"><i class="ai ai-twitter"></i> @timmocking</a>
+</div>
+
+<!-- ### Qualities 
+
+Enthusiastic, creative, analytical, collaborative, independent thinker, perseverance. -->
+
+<h3 id="specialized-in">Specialized in</h3>
+
+<p>Computational flow cytometry, machine learning, single cell data, myeloid malignancies.</p>
+
+<!-- ### Research question
+
+What determines why and how cancer cells respond to targeted inhibitors? -->
+
+<h2 id="experience">Experience</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2021 - Present</code>
+<strong>PhD Student</strong>, <em>Bioinformatics, AmsterdamUMC Cancer Center</em>.<br /></p>
+
+<p><code class="language-plaintext highlighter-rouge">2019 - 2021</code>
+<strong>Junior Data Scientist</strong>, <em>WePublic</em>.<br /></p>
+
+<h2 id="education">Education</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2021 - 2025</code>
+<strong>PhD, Bioinformatics</strong>, <em>AmsterdamUMC Cancer Center</em>.<br /></p>
+
+<p><code class="language-plaintext highlighter-rouge">2019 - 2021</code>
+<strong>MSc Bioinformatics &amp; Systems Biology</strong>, <em>Vrij Universiteit Amsterdam, University of Amsterdam</em><br />
+Thesis: “Clonality analysis of multiple cancers from the same patient”<br />
+Developed <a href="CNP-ALIGN">https://github.com/timmocking/cnp-align</a> for clonality assessment from copy number profiles.
+Advisor: Yongsoo Kim</p>
+
+<p>Thesis: “Improving neoantigen validation through real-time selective Nanopore sequencing”<br />
+Advisor: Wigard Kloosterman</p>
+
+<p><code class="language-plaintext highlighter-rouge">2015-2019</code> <strong>BSc Biomedical Sciences</strong>, <em>University of Amsterdam</em>.<br />
+Minor Data Science &amp; Artificial Intelligence<br />
+Minor Patient-oriented Research<br /></p>
+
+<p>Thesis: “Next-generation strategies for genotyping for animal populations”<br />
+Advisor: Timo Breit</p>
+
+<h2 id="awards">Awards</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2023</code> <strong>AmstersterdamUMC Cancer Center Poster Prize</strong> Prize for best poster at the 2023 edition of the CCA retreat.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2022</code> <strong>Vrije Universiteit Master Thesis Prize</strong> Prize for best master thesis of the Vrije Universiteit in 2021.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2022</code> <strong>Vrije Universiteit Beta Faculty Master Thesis Prize</strong> Prize for best thesis of the Vrije Universiteit’s beta faculty in 2021.</p>
+
+<h2 id="publications">Publications</h2>
+
+<p><strong>Mocking, T. R.</strong>, Duetz, C., van Kuijk, B. J., Westers, T. M., Cloos, J., and Bachas, C. “Merging and imputation of flow cytometry data: a critical assessment”. <em>Cytometry Part A</em>. doi:<a href="dx.doi.org/10.1002/cyto.a.24774">10.1002/cyto.a.24774</a>, 2023.<br /> <em>Evaluates existing imputation software for flow cytometry data. Shows that existing tools can distort data and downstream biological interpretation.</em> <br />
+<i class="fab fa-github"></i> <a href="https://github.com/AUMC-HEMA/imputation-manuscript"> Code </a></p>
+
+<h2 id="invited-talks">Invited Talks</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2023</code> 
+<strong>VU Library</strong>, <em>How to write master thesis in 2023</em> <br />
+<em>Invited by the university library to give a series of talks to bachelor and master students on how to write a thesis.</em></p>
+
+<p><code class="language-plaintext highlighter-rouge">2022</code> 
+<strong>VU Seniors Society</strong>, <em>Improving the analysis of tumors</em> <br />
+<em>Invited by the University’s seniors society to present my research on copy number profiling of tumors.</em></p>
+:ET

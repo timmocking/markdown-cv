@@ -1,0 +1,103 @@
+I"�<h1 id="tim-mocking">Tim Mocking</h1>
+
+<p>PhD Student, AmsterdamUMC Cancer Center</p>
+
+<p>Bioinformatics, Department of Hematology<br /></p>
+
+<p><a href="t.r.mocking@amsterdamumc.nl">t.r.mocking@amsterdamumc.nl</a></p>
+
+<div id="webaddress">
+  <a href="https://orcid.org/0000-0001-9170-4131"><i class="ai ai-orcid"></i> 0000-0002-8788-9548</a> -
+  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Mocking+TR&amp;cauthor_id=37338802"><i class="ai ai-pubmed"></i> Pubmed </a> -
+  <a href="https://scholar.google.com/citations?user=M7JvmCIAAAAJ&amp;hl=en"><i class="ai ai-google-scholar"></i> Google Scholar</a> - 
+  <a href="https://twitter.com/timmocking"><i class="ai ai-twitter"></i> @timmocking</a>
+</div>
+
+<!-- ### Qualities 
+
+Enthusiastic, creative, analytical, collaborative, independent thinker, perseverance. -->
+
+<h3 id="specialized-in">Specialized in</h3>
+
+<p>Computational flow cytometry, machine learning, single cell data, myeloid malignancies.</p>
+
+<!-- ### Research question
+
+What determines why and how cancer cells respond to targeted inhibitors? -->
+
+<h2 id="experience">Experience</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2021 - Present</code>
+<strong>PhD Student</strong>, <em>Bioinformatics, AmsterdamUMC Cancer Center</em>.<br /></p>
+
+<p><code class="language-plaintext highlighter-rouge">2019 - 2021</code>
+<strong>Junior Data Scientist</strong>, <em>WePublic</em>.<br /></p>
+
+<h2 id="education">Education</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2021 - 2025</code>
+<strong>PhD, Bioinformatics</strong>, <em>AmsterdamUMC Cancer Center</em>.<br /></p>
+
+<p><code class="language-plaintext highlighter-rouge">2019 - 2021</code>
+<strong>MSc Bioinformatics &amp; Systems Biology</strong>, <em>Vrij Universiteit Amsterdam, University of Amsterdam</em><br />
+Thesis: “Clonality analysis of multiple cancers from the same patient”<br />
+Advisor: Yongsoo Kim</p>
+
+<p>Thesis: “Improving neoantigen validation through real-time selective Nanopore sequencing”<br />
+Advisor: Wigard Kloosterman</p>
+
+<p><code class="language-plaintext highlighter-rouge">2015-2019</code> <strong>BSc Biomedical Sciences</strong>, <em>University of Amsterdam</em>.<br />
+Minor Data Science &amp; Artificial Intelligence<br />
+Minor Patient-oriented Research<br /></p>
+
+<p>Thesis: “Next-generation strategies for genotyping for animal populations”<br />
+Advisor: Timo Breit</p>
+
+<h2 id="awards">Awards</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2023</code> <strong>AmstersterdamUMC Cancer Center poster prize</strong> Prize for best poster at the 2023 edition of the CCA retreat.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2023</code> <strong>AmstersterdamUMC Cancer Center Travel Grant</strong> Grant covering expenses to visit the group of Yvan Saeys.</p>
+
+<p><code class="language-plaintext highlighter-rouge">2022</code> <strong>Vrije Universiteit master thesis prize</strong> (1st place)</p>
+
+<p><code class="language-plaintext highlighter-rouge">2022</code> <strong>Vrije Universiteit Beta Faculty master thesis prize</strong> (1st place)</p>
+
+<h2 id="publications">Publications</h2>
+
+<p>A list is also available at <a href="https://scholar.google.com/citations?user=FWmDPGgAAAAJ&amp;hl=en">google scholar</a> or <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Bosdriesz+E">pubmed</a>. # indicates equal contribution.</p>
+
+<h3 id="key">Key</h3>
+
+<p><strong>E. Bosdriesz</strong>, J. Fernandes Neto, A. Sieber, R. Bernards,N. Blüthgen and L.F.A. Wessels, ‘Identifying mutant-specific drug combinations using Comparative Network Reconstruction’. <em>iScience</em>, <em>25</em>(8); doi:<a href="http://dx.doi.org/10.1016/j.isci.2022.104760">10.1016/j.isci.2022.104760</a>, 2022.<br />
+<em>Shows that Comparative Network Reconstruction can be used to predict which low-dose multi-drug combinations that are selective in an isogenic cell-line pair.</em><br />
+<i class="fab fa-github"></i> <a href="https://github.com/evertbosdriesz/cnr-selective-combos"> Code and Data </a></p>
+
+<p>J. Fernandes Neto, E. Nadal#, <strong>E. Bosdriesz</strong>#, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and &amp; R. Bernards, ‘Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.’ <em>Nature Communications</em>, <em>11 (1)</em>: 3157.doi:<a href="https://doi.org/10.1038/s41467-020-16952-9">10.1038/s41467-020-16952-9</a>, 2020.
+<em>Shows that combining multiple drugs at low dose is effective, prevents emergence resistance, and is well tolerated by mice.</em></p>
+
+<p><strong>E. Bosdriesz</strong>, A. Prahallad, B. Klinger, A. Sieber, A. Bosma, R. Bernards, N. Blüthgen and L.F.A. Wessels, ‘Comparative Network Reconstruction Using Mixed Integer Programming’, <em>Bioinformatics</em>, <em>34</em>:i997–1004. doi:<a href="https://doi.org/10.1093/bioinformatics/bty616">10.1093/bioinformatics/bty616</a>, 2018.<br />
+<em>Method to reconstruct and compare signaling networks based on perturbation data using Mixed Integer Quadratic programming.</em>:
+<i class="fab fa-github"></i> <a href="https://github.com/NKI-CCB/cnr"> Code </a> -
+<a href="https://github.com/NKI-CCB/CNR-analyses"> Notebooks </a></p>
+
+<h2 id="invited-talks">Invited Talks</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2023</code> 
+<strong>VU Library</strong>, <em>How to write master thesis in 2023</em> <br />
+<em>Invited by the university library to give a series of talks to bachelor and master students on how to write a thesis.</em></p>
+
+<p><code class="language-plaintext highlighter-rouge">2022</code> 
+<strong>VU Seniors Society</strong>, <em>Improving the analysis of tumors</em> <br />
+<em>Invited by the University’s seniors society to present my research on copy number profiling of tumors.</em></p>
+
+<h2 id="reviewing">Reviewing</h2>
+
+<!-- #`Independent` -->
+<p>Cell Reports Medicine, Bioinformatics, PLOS Computational Biology, iScience, Review Commons,  Cellular Oncology, Cancer Medicine, Molecular Cancer Therapeutics, Scientific Reports.</p>
+
+<!-- `Co-reviewed`
+Nature Communications, Plos Computational Biology (with Prof. Wessels),
+Lung Cancer (with Prof. Bernards),
+Biophysical Journal (with Prof. Bruggeman). -->
+:ET
