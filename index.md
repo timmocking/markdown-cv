@@ -37,14 +37,19 @@ What determines why and how cancer cells respond to targeted inhibitors? -->
 `2021 - Present`
 **PhD Student**, *Bioinformatics, AmsterdamUMC Cancer Center*.<br>
 
+<br>
 
 `2019 - 2021`
 **Junior Data Scientist**, *WePublic*.<br>
+Developed <a href="https://issuetracker.nu/">Issue-Tracker
+</a> which tracks of hundreds of different data sources (social media, newspapers, parliamentary debates) and uses natural language processing to identify trends in public sentiment. Issue-Tracker is used by a number of large Dutch companies and organizations to keep track of trends in the public domain.
 
 ## Education
 
 `2021 - 2025`
 **PhD, Bioinformatics**, *AmsterdamUMC Cancer Center*.<br/>
+
+<br>
 
 `2019 - 2021`
 **MSc Bioinformatics & Systems Biology**, *Vrij Universiteit Amsterdam, University of Amsterdam*<br/>
@@ -55,6 +60,8 @@ Advisor: Yongsoo Kim
 
 Thesis: "Improving neoantigen validation through real-time selective Nanopore sequencing"<br/>
 Advisor: Wigard Kloosterman
+
+<br>
 
 `2015-2019` **BSc Biomedical Sciences**, *University of Amsterdam*.<br/>
 Minor Data Science & Artificial Intelligence<br/>
